@@ -1,0 +1,45 @@
+/*Bu bir class */
+.kodadi2023 {
+	font-size: 25px;
+	font-family: arial;
+	color: green;
+	text-align: center;
+}
+
+/* Alttaki örnek etikete etki eder. */
+h1 {
+	font-family: arial;
+	color: red;
+}
+
+.resim {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 250px;
+}
+
+
+
+/* Bu arka plan resmi koyar
+html, body {
+	backround; url(y.jpg) no-repeat center center fixed;
+	backround-size: cover;
+}
+*/
+
+html, body {
+	background-color: #c65423 !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
